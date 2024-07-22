@@ -1,0 +1,6 @@
+com\NopCommerceCucumber\stepsDefine\LoginSteps.class
+com\NopCommerceCucumber\pageObject\LoginPage.class
+com\NopCommerceCucumber\pageObject\SearchCustPage.class
+com\NopCommerceCucumber\stepsDefine\BaseClass.class
+com\NopCommerceCucumber\pageObject\AddNewCusPage.class
+com\NopCommerceCucumber\testRunner\TestRunner.class
